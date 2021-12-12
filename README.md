@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Примечания к выполению
+
+В библиотеке faker отсутсвует метод avatart, поэтому выбрал как аватарки использовать image.image()
+
+Не о конца понял пункт ТЗ "При изменении верхней строки подсветить эту строку с анимацией. Убрать подсветку через 1 секунду"
+Так как доделывал тествое на выходных сделал по своему видению — ховер на строку таблицы
 
 ## Available Scripts
 
